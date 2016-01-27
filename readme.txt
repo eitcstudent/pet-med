@@ -1,0 +1,1 @@
+This is a readme.txt file. This repo is a mock Pet Medicine site. It is a repo to help us learn Git.
